@@ -1,2 +1,1 @@
-# test
-Test Git Command
+bibeidizhi.com
